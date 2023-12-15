@@ -10,7 +10,7 @@ export const Footer = () => {
       "
       >
         <Logo />
-        <div
+        {/* <div
           className="space-x-4 md:block md:w-auto flex
         items-center justify-between w-full"
         >
@@ -20,7 +20,7 @@ export const Footer = () => {
           <Button size="sm" variant="ghost">
             Terms of Service
           </Button>
-        </div>
+        </div> */}
       </div>
     </div>
   );
